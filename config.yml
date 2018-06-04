@@ -1,0 +1,8 @@
+name: Personal Catalog
+description: |
+  ELK
+version: 0.0.5
+category: Personal
+maintainer: DZ
+license: Apache
+projectURL: # A URL related to the catalog entry
